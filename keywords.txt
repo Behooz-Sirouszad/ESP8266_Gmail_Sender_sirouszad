@@ -4,17 +4,17 @@
 # Class
 #######################################
 
-Gsender	KEYWORD1
+Gsender	                KEYWORD1
 
 #######################################
 # Methods and Functions 
 #######################################	
-Instance KEYWORD2
-SMTP_PORT	KEYWORD2
-SMTP_SERVER			KEYWORD2
-EMAILBASE64_LOGIN	KEYWORD2
-EMAILBASE64_PASSWORD KEYWORD2
-FROM	KEYWORD2
+Instance                KEYWORD2
+SMTP_PORT	            KEYWORD2
+SMTP_SERVER			    KEYWORD2
+EMAILBASE64_LOGIN	    KEYWORD2
+EMAILBASE64_PASSWORD    KEYWORD2
+FROM	                KEYWORD2
 #######################################
 # Instances (KEYWORD2)
 #######################################
