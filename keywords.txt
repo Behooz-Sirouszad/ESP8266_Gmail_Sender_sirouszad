@@ -5,6 +5,8 @@
 #######################################
 
 Gsender	                KEYWORD1
+rbase64	KEYWORD1	rbase64
+Base64	KEYWORD1	Base64
 
 #######################################
 # Methods and Functions 
@@ -15,6 +17,12 @@ SMTP_SERVER			    KEYWORD2
 EMAILBASE64_LOGIN	    KEYWORD2
 EMAILBASE64_PASSWORD    KEYWORD2
 FROM	                KEYWORD2
+rbase64_encode	KEYWORD2
+rbase64_decode	KEYWORD2
+rbase64_enc_len	KEYWORD2
+rbase64_dec_len	KEYWORD2
+encode	KEYWORD2
+decode	KEYWORD2
 #######################################
 # Instances (KEYWORD2)
 #######################################
