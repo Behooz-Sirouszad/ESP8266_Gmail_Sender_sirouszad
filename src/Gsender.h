@@ -12,8 +12,8 @@ class Gsender
     public:
          int SMTP_PORT= 465 ;
         const char* SMTP_SERVER ;
-        const char* EMAILBASE64_LOGIN ;
-        const char* EMAILBASE64_PASSWORD  ;
+        String EMAILBASE64_LOGIN ;
+        String EMAILBASE64_PASSWORD  ;
         const char* FROM  ;
         const char* _error = nullptr;
         char* _subject = nullptr;
