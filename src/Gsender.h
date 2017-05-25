@@ -1,7 +1,7 @@
 //This Library written and Compiled by :Behrooz Sirouszad ITPro.ir  b.sirouszad@gmail.com 5.25.2017
 #ifndef G_SENDER
 #define G_SENDER
-#define GS_SERIAL_LOG_1         // Print to Serial only server responce
+//#define GS_SERIAL_LOG_1         // Print to Serial only server responce
 //#define GS_SERIAL_LOG_2       //  Print to Serial client commands and server responce
 #include <WiFiClientSecure.h>
 
