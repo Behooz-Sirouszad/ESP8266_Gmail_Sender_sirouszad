@@ -1,0 +1,26 @@
+#######################################
+# Syntax Coloring Map For ESP8266_Gmail_Sender_Sirouszad
+####################################### 
+# Class
+#######################################
+
+Gsender	KEYWORD1
+
+#######################################
+# Methods and Functions 
+#######################################	
+Instance KEYWORD2
+SMTP_PORT	KEYWORD2
+SMTP_SERVER			KEYWORD2
+EMAILBASE64_LOGIN	KEYWORD2
+EMAILBASE64_PASSWORD KEYWORD2
+FROM	KEYWORD2
+#######################################
+# Instances (KEYWORD2)
+#######################################
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+
